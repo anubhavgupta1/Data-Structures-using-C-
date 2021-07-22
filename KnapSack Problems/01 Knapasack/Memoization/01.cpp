@@ -23,7 +23,7 @@ int solve(int *arr, int *wt, int W, int n, vector<vector<int>> &dp)
     }
     else
     {
-        ans = solve(arr,wt, W-wt[n-1], n-1, dp);
+        ans = solve(arr,wt, W, n-1, dp);
     }
 
     dp[n][W] = ans;
