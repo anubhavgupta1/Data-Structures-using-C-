@@ -18,7 +18,7 @@ int solve(int *arr, int *wt, int W, int n, vector<vector<int>> &dp)
     if(wt[n-1]<=W)
     {
         int a = arr[n-1] + solve(arr,wt, W-wt[n-1], n-1, dp);
-        int b = solve(arr,wt, W-wt[n-1], n-1, dp);
+        int b = solve(arr,wt, W, n-1, dp);
         ans = max(a,b);
     }
     else
