@@ -10,4 +10,5 @@
 ## Module 2 : Unbounded Knapsack Problems
 * [knapsack](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/1%20Knapsack)
 * [Maximum Rod Cutting](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/2%20Maximum%20Rod%20Cutting)
+* [Coin Change 1](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/3.%20Coin%20Change%201)
 
