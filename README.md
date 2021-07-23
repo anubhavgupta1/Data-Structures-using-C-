@@ -16,6 +16,7 @@
 * [Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/1%20Longest%20Common%20Subsequence)
 * [Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/2%20Longest%20Common%20Substring)
 * [Print Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/3%20Print%20Longest%20Common%20Subsequence/DP)
+* [Print Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/4%20Print%20Longest%20Common%20Substring/DP)
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
