@@ -23,8 +23,8 @@
 * [Print Shortest Common Supersequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/7%20Print%20Shortest%20Common%20Supersequence/DP)
 * [Print Longest Palindromic Subsequence problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/10%20Print%20Longest%20Palindromic%20Subsequence/DP)
 * [Minimum number of operations(insertions and deletions) to convert string a to string b](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/8%20Minimum%20Number%20of%20operations%20to%20convert%20string%20a%20to%20%20string%20b/DP)
-* [Minimum number of insertions to make string palindromic]()
-* [Minimum number of deletions to make string palindromic]()
+* [Minimum number of insertions to make string palindromic](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/12%20Minimum%20Number%20of%20insertions%20to%20make%20string%20palindromic/DP)
+* [Minimum number of deletions to make string palindromic](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/11%20Minimum%20Number%20of%20deletions%20to%20make%20string%20palindromic/DP)
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
