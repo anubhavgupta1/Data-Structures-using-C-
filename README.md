@@ -17,9 +17,14 @@
 * [Maximum number of uncrossed lines between two given arrays Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/6%20Uncrossed%20Lines/DP)
 * [Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/2%20Longest%20Common%20Substring)
 * [Shortest Common Supersequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/5%20Shortest%20Common%20Supersequence/DP)
+* [Longest Palindromic Subsequence problem]()
 * [Print Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/3%20Print%20Longest%20Common%20Subsequence/DP)
 * [Print Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/4%20Print%20Longest%20Common%20Substring/DP)
 * [Print Shortest Common Supersequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/7%20Print%20Shortest%20Common%20Supersequence/DP)
+* [Print Longest Palindromic Subsequence problem]()
+* [Minimum number of operations(insertions and deletions) to convert string a to string b]()
+* [Minimum number of insertions to make string palindromic]()
+* [Minimum number of deletions to make string palindromic]()
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
