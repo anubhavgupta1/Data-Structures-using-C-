@@ -14,12 +14,12 @@
 * [Coin Change : Minimum Number of Coins Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/UnBounded%20Knapsack/4%20Coin%20Change%202)
 ## Module 3 : Longest Common Subsequence Problems
 * [Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/1%20Longest%20Common%20Subsequence)
-* [Maximum number of uncrossed lines between two given arrays](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/6%20Uncrossed%20Lines/DP)
+* [Maximum number of uncrossed lines between two given arrays Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/6%20Uncrossed%20Lines/DP)
 * [Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/2%20Longest%20Common%20Substring)
-* [Shortest Common Supersequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/5%20Shortest%20Common%20Supersequence/DP)
+* [Shortest Common Supersequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/5%20Shortest%20Common%20Supersequence/DP)
 * [Print Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/3%20Print%20Longest%20Common%20Subsequence/DP)
 * [Print Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/4%20Print%20Longest%20Common%20Substring/DP)
-* [Print Shortest Common Supersequence]()
+* [Print Shortest Common Supersequence Problem]()
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
