@@ -22,7 +22,7 @@
 * [Print Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/4%20Print%20Longest%20Common%20Substring/DP)
 * [Print Shortest Common Supersequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/7%20Print%20Shortest%20Common%20Supersequence/DP)
 * [Print Longest Palindromic Subsequence problem]()
-* [Minimum number of operations(insertions and deletions) to convert string a to string b]()
+* [Minimum number of operations(insertions and deletions) to convert string a to string b](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/8%20Minimum%20Number%20of%20operations%20to%20convert%20string%20a%20to%20%20string%20b/DP)
 * [Minimum number of insertions to make string palindromic]()
 * [Minimum number of deletions to make string palindromic]()
 ## Module 4 : Matrix Chain Multiplication Problems
