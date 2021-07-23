@@ -8,10 +8,10 @@
 * [Count Subset difference Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/6%20Count%20Subset%20diff%20Problem)
 * [Equal Average Partition Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/7%20Equal%20Average%20Partition%20Problem/DP)
 ## Module 2 : Unbounded Knapsack Problems
-* [knapsack](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/1%20Knapsack)
-* [Maximum Rod Cutting](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/2%20Maximum%20Rod%20Cutting)
-* [Coin Change : Total Number of Coins](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/3.%20Coin%20Change%201)
-* [Coin Change : Minimum Number of Coins](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/4.%20Coin%20Change%202)
+* [knapsack Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/1%20Knapsack)
+* [Maximum Rod Cutting Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/2%20Maximum%20Rod%20Cutting)
+* [Coin Change : Total Number of Coins Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/3.%20Coin%20Change%201)
+* [Coin Change : Minimum Number of Coins Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/4.%20Coin%20Change%202)
 ## Module 3 : Longest Common Subsequence Problems
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
