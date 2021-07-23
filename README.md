@@ -14,6 +14,7 @@
 * [Coin Change : Minimum Number of Coins Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/UnBounded%20Knapsack/4%20Coin%20Change%202)
 ## Module 3 : Longest Common Subsequence Problems
 * [Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/1%20Longest%20Common%20Subsequence)
+* [Longest Common Substring Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/2%20Longest%20Common%20Substring)
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
