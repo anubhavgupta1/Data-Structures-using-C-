@@ -11,4 +11,7 @@
 * [knapsack](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/1%20Knapsack)
 * [Maximum Rod Cutting](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/2%20Maximum%20Rod%20Cutting)
 * [Coin Change 1](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/3.%20Coin%20Change%201)
+## Module 3 : Longest Common Subsequence Problems
+## Module 4 : Matrix Chain Multiplication Problems
+## Module 5 : Longest Increasing Subsequence Problems
 
