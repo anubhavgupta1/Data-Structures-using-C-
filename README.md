@@ -13,6 +13,7 @@
 * [Coin Change : Total Number of Coins Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/3.%20Coin%20Change%201)
 * [Coin Change : Minimum Number of Coins Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Unbounded%20KnapSack%20Problems/4.%20Coin%20Change%202)
 ## Module 3 : Longest Common Subsequence Problems
+* [Longest Common Subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/Longest%20Common%20Subsequence)
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
