@@ -1,4 +1,4 @@
-# Dynamic Pogramming
+# Dynamic Programming
 ## Module 1 : 01 Knapsack Problems
 * [Knapsack](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/01%20Knapasack)
 * [Subset Sum Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/2%20Subset%20Sum%20Problem)
