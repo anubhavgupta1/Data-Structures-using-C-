@@ -30,6 +30,8 @@
 * [Length of longest subsequence of one string which is substring of another string Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/15%20Length%20of%20longest%20subsequence%20of%20one%20string%20which%20is%20substring%20of%20another%20string)
 * [Print longest subsequence of one string which is substring of another string Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/16%20Print%20longest%20subsequence%20of%20one%20string%20which%20is%20substring%20of%20another%20string/DP)
 * [Count distinct occurrences as a subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/17%20Count%20distinct%20occurrences%20as%20a%20subsequence/DP)
+* [Edit Distance Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/18%20Edit%20Distance)
+* [Min Cost Path Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/19%20Min%20Cost%20Path)
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
