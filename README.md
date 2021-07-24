@@ -27,6 +27,7 @@
 * [Minimum number of operations(insertions and deletions) to convert string a to string b Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/8%20Minimum%20Number%20of%20operations%20to%20convert%20string%20a%20to%20%20string%20b/DP)
 * [Minimum number of insertions to make string palindromic Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/12%20Minimum%20Number%20of%20insertions%20to%20make%20string%20palindromic/DP)
 * [Minimum number of deletions to make string palindromic Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/11%20Minimum%20Number%20of%20deletions%20to%20make%20string%20palindromic/DP)
+* [Length of longest subsequence of one string which is substring of another string Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/15%20Length%20of%20longest%20subsequence%20of%20one%20string%20which%20is%20substring%20of%20another%20string)
 ## Module 4 : Matrix Chain Multiplication Problems
 ## Module 5 : Longest Increasing Subsequence Problems
 
