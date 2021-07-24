@@ -51,6 +51,6 @@
 * [Russian Doll Envelopees](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/5%20Russian%20Doll%20Envelopees)
 * [Maximum Sum Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/6%20Maximum%20Sum%20Increasing%20Subsequence)
 ## Module 6 : Kadane Algorithm Problems
-* [Largest Sum Contiguous Subarray]()
-* [Maximum Sum Circular Subarray]()
+* [Largest Sum Contiguous Subarray](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Kadane%20Problems/Largest%20Sum%20Contiguous%20Subarray)
+* [Maximum Sum Circular Subarray](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Kadane%20Problems/Maximum%20circular%20subarray%20sum)
 
