@@ -48,4 +48,5 @@
 * [Print Longest Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/3%20Print%20Longest%20Increasing%20Subsequence)
 * [Box Stacking Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/4%20Box%20Stacking%20Problem)
 * [Russian Doll Envelopees](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/5%20Russian%20Doll%20Envelopees)
+* [Maximum Sum Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/6%20Maximum%20Sum%20Increasing%20Subsequence)
 
