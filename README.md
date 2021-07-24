@@ -41,4 +41,9 @@
 * [Printing MCM Problem]()
 * [Min / Max Value of Expression Problem]()
 ## Module 5 : Longest Increasing Subsequence Problems
+* [Count Longest Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/1%20Count%20Longest%20Increasing%20Subsequence)
+* [Count Longest Increasing Subsequence : nlog(n)](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/2%20Count%20Longest%20Increasing%20Subsequence%20nlog%20n)
+* [Print Longest Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/3%20Print%20Longest%20Increasing%20Subsequence)
+* [Box Stacking Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/4%20Box%20Stacking%20Problem)
+* [Russian Doll Envelopees](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/5%20Russian%20Doll%20Envelopees)
 
