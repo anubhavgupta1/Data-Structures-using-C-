@@ -7,6 +7,8 @@
 * [Partition Subset Sum Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/5%20Partition%20Subset%20Sum%20Problem)
 * [Count Subset difference Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/6%20Count%20Subset%20diff%20Problem)
 * [Equal Average Partition Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/7%20Equal%20Average%20Partition%20Problem/DP)
+* [Minimum Operations to Reduce X to Zero Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/8%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero)
+* [Total Ways to Reduce X to Zero Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/KnapSack%20Problems/9%20Total%20Ways%20to%20Reduce%20X%20to%20Zero)
 ## Module 2 : Unbounded Knapsack Problems
 * [knapsack Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/UnBounded%20Knapsack/1%20Knapsack)
 * [Maximum Rod Cutting Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/UnBounded%20Knapsack/2%20Maximum%20Rod%20Cutting)
