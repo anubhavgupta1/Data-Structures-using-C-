@@ -33,5 +33,12 @@
 * [Edit Distance Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/18%20Edit%20Distance)
 * [Min Cost Path Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/19%20Min%20Cost%20Path)
 ## Module 4 : Matrix Chain Multiplication Problems
+* [Matrix Chain Multiplication Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/1%20MCM)
+* [Evaluate Expression to True Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/2%20Evaluate%20Expression%20to%20True)
+* [Palindrome Partitioning Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/3%20Palindrome%20Partitioning)
+* [Scrambed String Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/4%20Scrambed%20String)
+* [Egg Dropping Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/5%20Egg%20Dropping%20Problem)
+* [Printing MCM Problem]()
+* [Min / Max Value of Expression Problem]()
 ## Module 5 : Longest Increasing Subsequence Problems
 
