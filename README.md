@@ -33,9 +33,12 @@
 * [Length of longest subsequence of one string which is substring of another string Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/15%20Length%20of%20longest%20subsequence%20of%20one%20string%20which%20is%20substring%20of%20another%20string)
 * [Print longest subsequence of one string which is substring of another string Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/16%20Print%20longest%20subsequence%20of%20one%20string%20which%20is%20substring%20of%20another%20string/DP)
 * [Count distinct occurrences as a subsequence Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/17%20Count%20distinct%20occurrences%20as%20a%20subsequence/DP)
+## Module 4 : Path Problems
 * [Edit Distance Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/18%20Edit%20Distance)
 * [Min Cost Path Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/LCS%20Problems/19%20Min%20Cost%20Path)
-## Module 4 : Matrix Chain Multiplication Problems
+* [Unique Path Problem]()
+* [Unique Path with obstacles Problem]()
+## Module 5 : Matrix Chain Multiplication Problems
 * [Matrix Chain Multiplication Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/1%20MCM)
 * [Evaluate Expression to True Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/2%20Evaluate%20Expression%20to%20True)
 * [Palindrome Partitioning Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/3%20Palindrome%20Partitioning)
@@ -43,14 +46,13 @@
 * [Egg Dropping Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Matrix%20Chain%20Multiplication%20Problems/5%20Egg%20Dropping%20Problem)
 * [Printing MCM Problem]()
 * [Min / Max Value of Expression Problem]()
-## Module 5 : Longest Increasing Subsequence Problems
+## Module 6 : Longest Increasing Subsequence Problems
 * [Count Longest Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/1%20Count%20Longest%20Increasing%20Subsequence)
 * [Count Longest Increasing Subsequence : nlog(n)](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/2%20Count%20Longest%20Increasing%20Subsequence%20nlog%20n)
 * [Print Longest Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/3%20Print%20Longest%20Increasing%20Subsequence)
 * [Box Stacking Problem](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/4%20Box%20Stacking%20Problem)
 * [Russian Doll Envelopees](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/5%20Russian%20Doll%20Envelopees)
 * [Maximum Sum Increasing Subsequence](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Longest%20Increasing%20Subsequence%20Problems/6%20Maximum%20Sum%20Increasing%20Subsequence)
-## Module 6 : Kadane Algorithm Problems
+## Module 7 : Kadane Algorithm Problems
 * [Largest Sum Contiguous Subarray](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Kadane%20Problems/Largest%20Sum%20Contiguous%20Subarray)
 * [Maximum Sum Circular Subarray](https://github.com/anubhavgupta1/Dynamic-Programming/tree/main/Kadane%20Problems/Maximum%20circular%20subarray%20sum)
-
